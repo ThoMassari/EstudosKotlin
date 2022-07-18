@@ -13,9 +13,6 @@ class Pokemon (var nome: String, var tipo: String, var vida: Int, var ataque: In
        println("${pokemon2.nome} possuia ${pokemonatacado.vida} pontos de vida.")
        pokemonatacado.vida -= ataque //vida = vida - ataque
        println("Após esse ataque, ${pokemon2.nome} ficou com ${pokemonatacado.vida} pontos de via.")
-
-
-
    }
 
 
