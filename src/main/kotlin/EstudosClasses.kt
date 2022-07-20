@@ -30,9 +30,9 @@ fun main(){
     carro1.marca = "Fiat" //adicinando fiat a variavel marca
     println(carro1.marca)
 
-    var caroo1 = Carro("amarelo") //chamada construtor
+    var carro1 = Carro("amarelo") //chamada construtor
 
     var uno = Carro("fiat", "uno") // chamada construtor primario
 
     carro1.imprimirmensagemtela()//chamar função
-}*/
+*/
