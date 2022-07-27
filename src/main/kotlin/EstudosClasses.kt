@@ -1,11 +1,11 @@
-/*class Carro {
-    var marca = ""
-    var modelo = ""
-    var cor = ""
+    /*class Carro {
+        var marca = ""
+        var modelo = ""
+        var cor = ""
 }
 
 
-    // constructor(marca: String, modelo:String, cor:String) { //ja passa todos os parametros da classe de uma vez
+    //constructor(marca: String, modelo:String, cor:String) { //ja passa todos os parametros da classe de uma vez
 
     //}
 
